@@ -1,1 +1,1 @@
-# Banking-Application-Api
+# Banking-Application-REST-API
